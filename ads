@@ -13,7 +13,7 @@
 
     "key_iron" : "",
 
-    "url_exit": "https://play.google.com/store/apps/developer?id=ELFoukidev82",
+    "url_exit": "https://play.google.com/store/apps/developer?id=BoubkerAsDev",
 
 
     "networkAd": "max"
